@@ -307,7 +307,7 @@ public class Recommend extends javax.swing.JFrame {
         this.dispose();
     }//end of method gtb3ActionPerformed
 
-        /**
+    /**
      * The button pressed action event to go to the book page
      * @param evt The mouse action event
      */
