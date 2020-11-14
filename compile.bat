@@ -1,0 +1,17 @@
+javac addBooks.java
+javac AdminPanel.java
+javac BookPage.java
+javac bookSurvey.java
+javac Customer.java
+javac firstScreen.java
+javac Friends_Page.java
+javac HelpPage.java
+javac LoginPage.java
+javac Main.java
+javac mainMenu.java
+javac RandomBook.java
+javac Recommend.java
+javac Register.java
+javac SeeRated.java
+javac SurveyData.java
+java Main

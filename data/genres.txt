@@ -1,0 +1,201 @@
+fantasy,fantasy
+delusion,fantasy
+fancy,fantasy
+illusion,fantasy
+nightmare,fantasy
+reverie,fantasy
+vision,fantasy
+Atlantis,fantasy
+apparition,fantasy
+appearance,fantasy
+bubble,fantasy
+chimera,fantasy
+conceiving,fantasy
+creativity,fantasy
+daydream,fantasy
+envisioning,fantasy
+externalizing,fantasy
+fabrication,fantasy
+fairyland,fantasy
+fancying,fantasy
+fantasia,fantasy
+figment,fantasy
+flight,fantasy
+hallucination,fantasy
+imaginativeness,fantasy
+imagining,fantasy
+invention,fantasy
+mirage,fantasy
+objectifying,fantasy
+originality,fantasy
+rainbow,fantasy
+trip,fantasy
+utopia,fantasy
+vagary,fantasy
+air castle,fantasy
+flight of imagination,fantasy
+fool's paradise,fantasy
+head trip,fantasy
+mind trip,fantasy
+comedy,comedy
+farce,comedy
+fun,comedy
+humor,comedy
+satire,comedy
+sitcom,comedy
+ball,comedy
+burlesque,comedy
+camp,comedy
+comicality,comedy
+drollery,comedy
+facetiousness,comedy
+funnies,comedy
+funniness,comedy
+grins,comedy
+hilarity,comedy
+hoopla,comedy
+humorousness,comedy
+interlude,comedy
+laughs,comedy
+merry-go-round,comedy
+picnic,comedy
+schtick,comedy
+slapstick,comedy
+takeoff,comedy
+travesty,comedy
+vaudeville,comedy
+witticism,comedy
+wittiness,comedy
+chaffing,comedy
+comic drama,comedy
+comicalness,comedy
+drollness,comedy
+field day,comedy
+fun and games,comedy
+gag show,comedy
+high camp,comedy
+high time,comedy
+jesting,comedy
+joking,comedy
+light entertainment,comedy
+play on,comedy
+send-up,comedy
+wisecracking,comedy
+fiction,fiction
+drama,fiction
+fable,fiction
+imagination,fiction
+legend,fiction
+myth,fiction
+narrative,fiction
+novel,fiction
+tale,fiction
+yarn,fiction
+anecdote,fiction
+storytelling,fiction
+science fiction,science fiction
+SF,science fiction
+sci-fi,science fiction
+futurism,science fiction
+space fiction,science fiction
+space opera,science fiction
+space odyssey,science fiction
+educational,educational
+academic,educational
+cultural,educational
+informational,educational
+scholarly,educational
+instructive,educational
+informative,educational
+scholastic,educational
+tutorial,educational
+cooking,educational
+biography,biography
+fictional autobiography,biography
+autobiography,biography
+confession,biography
+diary,biography
+journal,biography
+letter,biography
+life story,biography
+memoir,biography
+adventures,biography
+experience,biography
+letters,biography
+life,biography
+reminiscences,biography
+bio,biography
+personal history,biography
+self-potrayak,biography
+political fiction,political fiction
+bureaucratic fiction,political fiction
+civic fiction,political fiction
+constitutional fiction,political fiction
+mystery,mystery
+conundrum,mystery
+enigma,mystery
+question,mystery
+riddle,mystery
+murder mystery,mystery
+riddle,mystery
+secrecy,mystery
+subtlety,mystery
+oracle,mystery
+young adult fiction,young adult fiction
+junior fiction,young adult fiction
+adolescent fiction,young adult fiction
+teen fiction,young adult fiction
+minor fiction,young adult fiction
+histroical fiction,historical fiction
+ancient fiction,historical fiction
+classical fiction,historical fiction
+factual fiction,historical fiction
+real fiction,historical fiction
+old fiction,historical fiction
+romance,romance
+affair,romance
+amour,romance
+attachment,romance
+courtship,romance
+enchantment,romance
+fascination,romance
+fling,romance
+flirtation,romance
+intrigue,romance
+liaison,romance
+love,romance
+passion,romance
+relationship,romance
+love story,romance
+horror,horror
+thriller,horror
+chiller,horror
+terror,horror
+apprehension,horror
+awe,horror
+consternation,horror
+disgust,horror
+dismay,horror
+dread,horror
+fright,horror
+hatred,horror
+panic,horror
+tragedy,tragedy
+adversity,tragedy
+calamity,tragedy
+catastrophe,tragedy
+failure,tragedy
+hardship,tragedy
+humiliation,tragedy
+misfortune,tragedy
+mishap,tragedy
+shock,tragedy
+struggle,tragedy
+woe,tragedy
+wreck,tragedy
+misadventure,tragedy
+bad fortune,tragedy
+nonfiction,nonfiction
+composition,nonfiction
+essay,nonfiction
+speech,nonfiction
